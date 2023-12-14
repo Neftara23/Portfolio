@@ -51,21 +51,31 @@ h2{
 h3{
     color: rgb(73, 41, 154);
     font-size: x-large;
+    text-align: center;
 }
 
 .Imagen{
     border: 2px solid #000000;
     border-radius: 50px;
+
+}
+
+img:hover{
+    opacity: 0.5;
 }
 
 .links{
     text-decoration: none;
+    font-size: larger;
 }
 
-
+p{
+    font-size: larger;
+}
 
 #u-list{
     list-style-type: none;
+   
 }
 
 
